@@ -40,6 +40,10 @@ https://www.youtube.com/watch?v=rJcm5Oyi3YA&list=PLWweaDaGRHjvQlpLV0yZDmRKVBdy6r
 https://www.youtube.com/watch?v=J_jAZuefdOw&list=PLWweaDaGRHjv1Nbq9SNt9rdq6-KOl3kR6
 
 
+.
+.
+// [ https://www.youtube.com/watch?v=nBD4xhH5vIE&list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh - playlist ]
+
 // unsorted //
 
 // How to make a 2D game for Android - Episode 8 (Explosions)
