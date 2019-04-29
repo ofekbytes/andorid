@@ -1,0 +1,60 @@
+
+/* android - youtube */
+
+.
+.
+// [ Android Studio 2D Game - playlist ]
+https://www.youtube.com/watch?v=OojQitoAEXs&list=PL2xjPbQaM7JZ_FmXwTAesiAciHEPlGmiW
+
+
+// Android Studio 2D Game #1 - The Game Loop
+https://www.youtube.com/watch?v=OojQitoAEXs
+
+// Android Studio 2D Game #2 - Basics of Draw + Update
+https://www.youtube.com/watch?v=Rliwg0sELJo
+
+// Android Studio 2D Game #3 - Obstacle Manager
+https://www.youtube.com/watch?v=Gs5OTAldsMc
+
+// Android Studio 2D Game #4 - Collision Detection
+https://www.youtube.com/watch?v=AL92LrbDNY0
+
+// Android Studio 2D Game #5 - Scene Management
+https://www.youtube.com/watch?v=cdjD_YD0obQ
+
+// Android Studio 2D Game #6 - Animations and Textures
+https://www.youtube.com/watch?v=l8-1ZtxA29Y
+
+// Android Studio 2D Game #7 - Sensors (Gyroscopic Controls)
+https://www.youtube.com/watch?v=vqvJn4G3NMM
+
+.
+.
+// [ Android Studio 2D Game Programming Tutorial - playlist ]
+https://www.youtube.com/watch?v=rJcm5Oyi3YA&list=PLWweaDaGRHjvQlpLV0yZDmRKVBdy6rSlg
+
+
+.
+.
+// [ Android App Development Tutorial - playlist ]
+https://www.youtube.com/watch?v=J_jAZuefdOw&list=PLWweaDaGRHjv1Nbq9SNt9rdq6-KOl3kR6
+
+
+// unsorted //
+
+// How to make a 2D game for Android - Episode 8 (Explosions)
+https://www.youtube.com/watch?v=jbjfnl0YRn0
+
+https://www.youtube.com/watch?v=Nl9MwAxNXvY
+
+
+// How to make a 2D game for Android - Episode 7 (Borders)
+https://www.youtube.com/watch?v=e2UfGK0XHaI
+
+// How to make a 2D game for Android - Episode 8 (Explosions)
+https://www.youtube.com/watch?v=jbjfnl0YRn0
+
+
+Let's make an App in Android Studio - Episode 9 (Data Storage)
+https://www.youtube.com/watch?v=rCa_gNVAe28
+

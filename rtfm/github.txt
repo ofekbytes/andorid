@@ -1,0 +1,5 @@
+
+github samples/example:
+
+https://github.com/googlesamples/android-testing.git
+
